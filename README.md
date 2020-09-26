@@ -4,3 +4,5 @@
     - Dart
     - Javascript
     - Spring(Security, Session, Webflux, Batch, JPA)
+    - MySQL(Aurora), MongoDB
+    
